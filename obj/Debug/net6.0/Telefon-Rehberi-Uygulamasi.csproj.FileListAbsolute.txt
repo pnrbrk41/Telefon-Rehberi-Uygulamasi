@@ -1,0 +1,15 @@
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.exe
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.deps.json
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.runtimeconfig.json
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.dll
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\bin\Debug\net6.0\Telefon-Rehberi-Uygulamasi.pdb
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.AssemblyInfo.cs
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.dll
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\refint\Telefon-Rehberi-Uygulamasi.dll
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.pdb
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\Telefon-Rehberi-Uygulamasi.genruntimeconfig.cache
+C:\Users\Burak\Documents\GitHub\Telefon-Rehberi-Uygulamasi\obj\Debug\net6.0\ref\Telefon-Rehberi-Uygulamasi.dll
